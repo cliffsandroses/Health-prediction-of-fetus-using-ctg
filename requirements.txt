@@ -1,8 +1,13 @@
 numpy
 pandas
 scikit-learn
-tensorflow==2.12.0
+tensorflow
 joblib
 streamlit
 matplotlib
 setuptools
+plotly
+seaborn
+reportlab
+cryptography
+pyyaml
